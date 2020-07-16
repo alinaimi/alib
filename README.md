@@ -1,5 +1,5 @@
 # alib
-JScript library to bring familiar Node.js functions and more...
+JScript library to bring familiar Node.js ES5 functions and more...
 
 Love Node.js? Bored using ancient Microsoft batch files? 📢 This library can solve this issue, and it doesn't need any external solution.
 
