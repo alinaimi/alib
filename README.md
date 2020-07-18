@@ -17,7 +17,7 @@ Tested on win XP sp2 (5) .. win 10.
 :: Put batch file commands here
 :: ---
 
-@call alib.cmd %* &@goto :eof
+@call alib.cmd %* &@goto :eof&::🍵*/
 
 // ---
 // Put javascript codes here
