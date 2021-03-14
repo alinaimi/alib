@@ -1,3 +1,11 @@
+[//]: # "https://github.com/alinaimi/alib"
+
+<!---
+todo:
+add codes
+cleanup
+-->
+
 # alib library
 JScript library to bring familiar Node.js ES5 functions and more...
 
